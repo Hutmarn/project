@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+
+#one{
+    float: left;
+    width: 50%;
+}
+#two{
+    float: left;
+    width: 50%;
+}
